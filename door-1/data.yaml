@@ -1,0 +1,12 @@
+names:
+  80: '2'
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: door-p28ku
+  url: https://universe.roboflow.com/coins-j8vwp/door-p28ku/dataset/1
+  version: 1
+  workspace: coins-j8vwp
+test: /content/yolov5/door-1/test/images
+train: /content/yolov5/door-1/train/images
+val: /content/yolov5/door-1/valid/images

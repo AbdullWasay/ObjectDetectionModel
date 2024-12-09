@@ -1,0 +1,17 @@
+names:
+  81: apple
+  82: banana
+  83: orange
+  84: other
+  85: pear
+  86: pineapple
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: rcnn-oumhw
+  url: https://universe.roboflow.com/suratthani-rajabhat-university/rcnn-oumhw/dataset/2
+  version: 2
+  workspace: suratthani-rajabhat-university
+test: /content/yolov5/RCNN-2/test/images
+train: /content/yolov5/RCNN-2/train/images
+val: /content/yolov5/RCNN-2/valid/images
